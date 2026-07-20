@@ -9,6 +9,14 @@
       "filename": "zapret.zip"
     },
     {
+      "id": "discord",
+      "name": "Discord",
+      "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community.",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98HoaQ-ZD_HmdWsGruXDKAYejIr2vkhG8TctlcmaY2Q&s=10",
+      "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+      "filename": "DiscordSetup.exe"
+    },
+    {
       "id": "googlechrome",
       "name": "Google Chrome",
       "description": "Chrome – быстрый, удобный и безопасный веб-браузер от Google",
