@@ -9,7 +9,7 @@
       "filename": "zapret.zip"
     },
     {
-      "id": "discordapp",
+      "id": "discord.app",
       "name": "Discord",
       "description": "Discord is great for playing games and chilling with friends, or even building a worldwide community.",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98HoaQ-ZD_HmdWsGruXDKAYejIr2vkhG8TctlcmaY2Q&s=10",
@@ -41,11 +41,11 @@
       "filename": "SteamSetup.exe"
     },
     {
-      "id": "paintnet",
+      "id": "paint.net",
       "name": "Paint.NET",
       "description": "Бесплатный растровый графический редактор рисунков и фотографий для Windows, разработанный на платформе .NET Framework",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCSEGr-jqBvqy-WKI2TOcyUk5QhO-omPiDogpiL_dPw&s=10",
-      "url": "https://download.biblprog.net/get/fUxiQy8w-noxKxWNOwD_Q4AWyLwu5DOJWmStHSNvvcGhKTXj-pzDEgl3Ry10RW8vYqCBKfd90IrXWJrKdsJe0j8GXPXEZsjlE22vYm0cgMMv6cLUQACxmmmnv8B7hY5Lg7Aal9bkEikcnQXcaed7WPZnRg/paintnet_5.1.12.exe",
+      "url": "https://github.com/shpekers/paradox-store/releases/download/PaintNet/paintnet_5.1.12.exe",
       "filename": "paintnet_5.1.12.exe"
     },
     {
