@@ -23,6 +23,14 @@
       "icon": "https://github.com/Flowseal/tg-ws-proxy/raw/main/docs/images/workflow.png",
       "url": "https://github.com/Flowseal/tg-ws-proxy/releases/download/v1.8.1/TgWsProxy_windows.exe",
       "filename": "TgWsProxy_windows.exe"
+    },
+    {
+      "id": "Steam",
+      "name": "steam",
+      "description": "Локальный MTProto-прокси для Telegram Desktop",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png",
+      "url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+      "filename": "SteamSetup.exe"
     }
   ]
 }
