@@ -11,7 +11,7 @@
     {
       "id": "googlechrome",
       "name": "Google Chrome",
-      "description": "Браузер",
+      "description": "Chrome – быстрый, удобный и безопасный веб-браузер от Google",
       "icon": "https://www.google.com/chrome/static/images/chrome-logo-m100.svg",
       "url": "https://github.com/shpekers/paradox-store/releases/download/Chrome/ChromeSetup.exe",
       "filename": "ChromeSetup.exe"
