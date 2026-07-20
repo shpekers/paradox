@@ -44,7 +44,7 @@
       "id": "SublimeText",
       "name": "Sublime Text",
       "description": "Sublime Text Editor - бесплатное приложение для редактирования текста",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCSEGr-jqBvqy-WKI2TOcyUk5QhO-omPiDogpiL_dPw&s=10",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png",
       "url": "https://github.com/shpekers/paradox-store/releases/download/SublimeText/sublime_text_build_4200_x64_setup.exe",
       "filename": "sublime_text_build_4200_x64_setup.exe"
     }
