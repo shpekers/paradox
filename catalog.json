@@ -26,7 +26,7 @@
     },
     {
       "id": "Steam",
-      "name": "steam",
+      "name": "Steam",
       "description": "Steam предлагает около 30 000 игр на любой вкус, а также эксклюзивные предложения, автоматическое обновление игр и другие замечательные возможности",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png",
       "url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
