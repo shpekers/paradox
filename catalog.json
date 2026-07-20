@@ -31,6 +31,15 @@
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png",
       "url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
       "filename": "SteamSetup.exe"
+    },
+    {
+      "id": "paintnet",
+      "name": "Paint.NET",
+      "description": "Бесплатный растровый графический редактор рисунков и фотографий для Windows, разработанный на платформе .NET Framework",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCSEGr-jqBvqy-WKI2TOcyUk5QhO-omPiDogpiL_dPw&s=10",
+      "url": "https://download.biblprog.net/get/fUxiQy8w-noxKxWNOwD_Q4AWyLwu5DOJWmStHSNvvcGhKTXj-pzDEgl3Ry10RW8vYqCBKfd90IrXWJrKdsJe0j8GXPXEZsjlE22vYm0cgMMv6cLUQACxmmmnv8B7hY5Lg7Aal9bkEikcnQXcaed7WPZnRg/paintnet_5.1.12.exe",
+      "filename": "paintnet_5.1.12.exe"
     }
   ]
 }
+https://download.biblprog.net/get/fUxiQy8w-noxKxWNOwD_Q4AWyLwu5DOJWmStHSNvvcGhKTXj-pzDEgl3Ry10RW8vYqCBKfd90IrXWJrKdsJe0j8GXPXEZsjlE22vYm0cgMMv6cLUQACxmmmnv8B7hY5Lg7Aal9bkEikcnQXcaed7WPZnRg/paintnet_5.1.12.exe
