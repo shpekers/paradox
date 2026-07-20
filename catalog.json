@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "id": "zapret",
+      "name": "Zapret",
+      "description": "DPI bypass tool — обход блокировок без VPN",
+      "icon": "https://raw.githubusercontent.com/bol-van/zapret/master/docs/logo.png",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.9d/zapret-discord-youtube-1.9.9d.zip",
+      "filename": "zapret.zip"
+    },
+    {
+      "id": "googlechrome",
+      "name": "Google Chrome",
+      "description": "Браузер",
+      "icon": "https://www.google.com/chrome/static/images/chrome-logo-m100.svg",
+      "url": "https://github.com/shpekers/paradox-store/releases/download/Chrome/ChromeSetup.exe",
+      "filename": "ChromeSetup.exe"
+    },
+    {
+      "id": "TGWSProxy",
+      "name": "TG WS Proxy",
+      "description": "Локальный MTProto-прокси для Telegram Desktop",
+      "icon": "https://github.com/Flowseal/tg-ws-proxy/raw/main/docs/images/workflow.png",
+      "url": "https://github.com/Flowseal/tg-ws-proxy/releases/download/v1.8.1/TgWsProxy_windows.exe",
+      "filename": "TgWsProxy_windows.exe"
+    }
+  ]
+}
