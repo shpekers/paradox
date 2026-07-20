@@ -25,7 +25,7 @@
       "filename": "TgWsProxy_windows.exe"
     },
     {
-      "id": "Steam",
+      "id": "SteamSetup",
       "name": "Steam",
       "description": "Steam предлагает около 30 000 игр на любой вкус, а также эксклюзивные предложения, автоматическое обновление игр и другие замечательные возможности",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png",
